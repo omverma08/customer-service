@@ -16,7 +16,7 @@ public class CustomerServiceApplication {
 		
 		
 		SpringApplication.run(CustomerServiceApplication.class, args);
-		System.out.println("hello hero");
+		System.out.println("Welcome hero");
 
 		
 	}
